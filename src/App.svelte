@@ -1,1 +1,3 @@
-<div class="radial-progress" style="--value:70;">70%</div>
+<div class="mockup-code">
+  <pre data-prefix="$"><code>npm i daisyui</code></pre>
+</div>
