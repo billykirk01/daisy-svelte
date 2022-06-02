@@ -1,1 +1,1 @@
-<button class="btn">Hello daisyui</button>
+<div class="radial-progress" style="--value:70;">70%</div>

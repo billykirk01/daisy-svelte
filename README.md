@@ -1,3 +1,3 @@
-# daisyui-svelte-vite-tgqpqe
+# Svelte Playground
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/daisyui-svelte-vite-tgqpqe)
+This a playground built for Github codespaces with a basic Svelte template running on vite and with Daisy UI already configured.
